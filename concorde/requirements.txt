@@ -11,7 +11,7 @@ colorama==0.3.7
 -e git+https://github.com/lampholder/concorde.git@cfdcfecc7bfc081ea29935c72c64d1d83169acd6#egg=concorde
 docutils==0.14
 durationpy==0.5
-Flask==0.12.3
+Flask==1.0
 Flask-Cors==3.0.3
 future==0.16.0
 futures==3.2.0
