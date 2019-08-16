@@ -1,0 +1,3 @@
+homeserver: 'https://matrix.example.org'
+passgen_secret: 'example-dontusethis'
+migration_secret: 'example-dontusethiseither'
