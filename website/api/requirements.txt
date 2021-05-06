@@ -12,7 +12,7 @@ colorama==0.3.7
 docutils==0.14
 durationpy==0.5
 Flask==1.0
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 future==0.16.0
 futures==3.2.0
 hjson==3.0.1
